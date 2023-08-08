@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326192528692",
+    "project_id": "sanghavi-digi-gold",
+    "storage_bucket": "sanghavi-digi-gold.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326192528692:android:8c92cc5d20ca156eecf961",
+        "android_client_info": {
+          "package_name": "com.sanghavi.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326192528692-a1mime32jmuk3km5bqgv0lievnnakpl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanghavi.user",
+            "certificate_hash": "6d67320b31328589559f88b2b345e31a26f5fd8c"
+          }
+        },
+        {
+          "client_id": "326192528692-n8qla83up4hvfakqp05f4abv6qsq4b51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2yKVf1KBY5Rf2LAldh7bziovqF4X1q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326192528692-n8qla83up4hvfakqp05f4abv6qsq4b51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

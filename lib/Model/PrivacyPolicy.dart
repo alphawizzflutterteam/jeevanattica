@@ -1,0 +1,97 @@
+import 'dart:convert';
+/// error : false
+/// data : [{"id":"2","variable":"privacy_policy","value":"<p></p><h2><b>Privacy policy</b></h2><div><span xss=removed>Costumer ACCESSING, BROWSING OR OTHERWISE USING THE WEBSITE Atticadigitalmarketing.com, Missed Call Service or mobile application INDICATES user is in AGREEMENT with Attica digital marketing vegetables & fruits Pvt Ltd for ALL THE TERMS AND CONDITIONS MENTIONED henceforth. User is requested to READ terms and conditions CAREFULLY BEFORE PROCEEDING FURTHER.</span><br></div><div>User is the person, group of person, company, trust, society, legal entity, legal personality or anyone who visits website, mobile app or gives missed call or places order with Attica digital marketing via phone or website or mobile application or browse through website Atticadigitalmarketing.com.</div><div><br></div><div>Attica digital marketing is in trade of fresh fruits and vegetables and delivers the order to home (user’s desired address) directly.</div><div><br></div><div>That any user who gives missed call/call for order on any number published/used by Atticadigitalmarketing.com, consents to receive, accept calls and messages or any after communication from Attica digital marketing vegetables & fruits Pvt Ltd for Promotion and Telemarketing Purposes within a week.</div><div><br></div><div>If a customer do not wish to receive any communication from Attica digital marketing, please SMS NO OFFERS to 9512512125.</div><div><br></div><div>Attica digital marketing accept orders on all seven days and user will receive the delivery next day from date of order placement, as we at Attica digital marketing procure the fresh produce from the procurement center and deliver it straight to user.</div><div><br></div><div>There is Minimum Order value of Rs. 200. There are no delivery charges on an order worth Rs. 200 or above. In special cases, if permitted, order value is less then Rs. 200/– , Rs. 40 as shipping charges shall be charged from user.</div><div><br></div><div>Attica digital marketing updates the prices on daily basis and the price displayed at our websitewww.Atticadigitalmarketing.com, at the time of placement of order by user he/she/it will be charged as per the price listed at the website Atticadigitalmarketing.com.</div><div><br></div><div>In the event, though there are remote possibilities, of wrong invoice generation due to any reason, in case it happens Attica digital marketing vegetables & fruits Pvt Ltd reserve its right to again raise the correct invoice at the revised amount and same shall be paid by user.</div><div><br></div><div>At times it is difficult to weigh certain vegetables or fruits exactly as per the order or desired quantity of user, hence the delivery might be with five percent variation on both higher or lower side of exact ordered quantity, user are hereby under takes to pay to Attica digital marketing vegetables & fruits Pvt Ltd as per the final invoice. We at Attica digital marketing understands and our endeavor is to always deliver in exact quantity in consonance with quantity ordered but every time it’s not possible but Attica digital marketing guarantee the fair deal and weight to all its users www.Atticadigitalmarketing.com</div><div><br></div><div>built the Attica digital marketing app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.</div><div><br></div><div><br></div><div><br></div><div>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</div><div><br></div><div>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</div><div><br></div><div>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Attica digital marketing unless otherwise defined in this Privacy Policy.</div><div><br></div><div>Information Collection and Use</div><div><br></div><div>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.</div><div><br></div><div>The app does use third party services that may collect information used to identify you.</div><div><br></div><div>Link to privacy policy of third party service providers used by the app</div><div><br></div><div>Google Play Services</div><div>Google Analytics for Firebase</div><div>Firebase Crashlytics</div><div>Log Data</div><div><br></div><div>I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.</div><div><br></div><div>Cookies</div><div><br></div><div>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\\'s internal memory.</div><div><br></div><div>This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</div><div><br></div><div>Service Providers</div><div><br></div><div>I may employ third-party companies and individuals due to the following reasons:</div><div><br></div><div>To facilitate our Service;</div><div>To provide the Service on our behalf;</div><div>To perform Service-related services; or</div><div>To assist us in analyzing how our Service is used.</div><div>I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</div><div><br></div><div>Security</div><div><br></div><div>I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.</div><div><br></div><div>Links to Other Sites</div><div><br></div><div>This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</div><div><br></div><div>Children’s Privacy</div><div><br></div><div>These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.</div><div><br></div><div>Changes to This Privacy Policy</div><div><br></div><div>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</div><div><br></div><div>This policy is effective as of 2021-01-04</div><div><br></div><div>Contact Us</div><div><br></div><div>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Atticadigitalmarketing.com</div><div><br></div><div>This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator</div>"}]
+/// message : "data found"
+
+PrivacyPolicy privacyPolicyFromJson(String str) => PrivacyPolicy.fromJson(json.decode(str));
+String privacyPolicyToJson(PrivacyPolicy data) => json.encode(data.toJson());
+class PrivacyPolicy {
+  PrivacyPolicy({
+      bool? error, 
+      List<Data>? data, 
+      String? message,}){
+    _error = error;
+    _data = data;
+    _message = message;
+}
+
+  PrivacyPolicy.fromJson(dynamic json) {
+    _error = json['error'];
+    if (json['data'] != null) {
+      _data = [];
+      json['data'].forEach((v) {
+        _data?.add(Data.fromJson(v));
+      });
+    }
+    _message = json['message'];
+  }
+  bool? _error;
+  List<Data>? _data;
+  String? _message;
+PrivacyPolicy copyWith({  bool? error,
+  List<Data>? data,
+  String? message,
+}) => PrivacyPolicy(  error: error ?? _error,
+  data: data ?? _data,
+  message: message ?? _message,
+);
+  bool? get error => _error;
+  List<Data>? get data => _data;
+  String? get message => _message;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['error'] = _error;
+    if (_data != null) {
+      map['data'] = _data?.map((v) => v.toJson()).toList();
+    }
+    map['message'] = _message;
+    return map;
+  }
+
+}
+
+/// id : "2"
+/// variable : "privacy_policy"
+/// value : "<p></p><h2><b>Privacy policy</b></h2><div><span xss=removed>Costumer ACCESSING, BROWSING OR OTHERWISE USING THE WEBSITE Atticadigitalmarketing.com, Missed Call Service or mobile application INDICATES user is in AGREEMENT with Attica digital marketing vegetables & fruits Pvt Ltd for ALL THE TERMS AND CONDITIONS MENTIONED henceforth. User is requested to READ terms and conditions CAREFULLY BEFORE PROCEEDING FURTHER.</span><br></div><div>User is the person, group of person, company, trust, society, legal entity, legal personality or anyone who visits website, mobile app or gives missed call or places order with Attica digital marketing via phone or website or mobile application or browse through website Atticadigitalmarketing.com.</div><div><br></div><div>Attica digital marketing is in trade of fresh fruits and vegetables and delivers the order to home (user’s desired address) directly.</div><div><br></div><div>That any user who gives missed call/call for order on any number published/used by Atticadigitalmarketing.com, consents to receive, accept calls and messages or any after communication from Attica digital marketing vegetables & fruits Pvt Ltd for Promotion and Telemarketing Purposes within a week.</div><div><br></div><div>If a customer do not wish to receive any communication from Attica digital marketing, please SMS NO OFFERS to 9512512125.</div><div><br></div><div>Attica digital marketing accept orders on all seven days and user will receive the delivery next day from date of order placement, as we at Attica digital marketing procure the fresh produce from the procurement center and deliver it straight to user.</div><div><br></div><div>There is Minimum Order value of Rs. 200. There are no delivery charges on an order worth Rs. 200 or above. In special cases, if permitted, order value is less then Rs. 200/– , Rs. 40 as shipping charges shall be charged from user.</div><div><br></div><div>Attica digital marketing updates the prices on daily basis and the price displayed at our websitewww.Atticadigitalmarketing.com, at the time of placement of order by user he/she/it will be charged as per the price listed at the website Atticadigitalmarketing.com.</div><div><br></div><div>In the event, though there are remote possibilities, of wrong invoice generation due to any reason, in case it happens Attica digital marketing vegetables & fruits Pvt Ltd reserve its right to again raise the correct invoice at the revised amount and same shall be paid by user.</div><div><br></div><div>At times it is difficult to weigh certain vegetables or fruits exactly as per the order or desired quantity of user, hence the delivery might be with five percent variation on both higher or lower side of exact ordered quantity, user are hereby under takes to pay to Attica digital marketing vegetables & fruits Pvt Ltd as per the final invoice. We at Attica digital marketing understands and our endeavor is to always deliver in exact quantity in consonance with quantity ordered but every time it’s not possible but Attica digital marketing guarantee the fair deal and weight to all its users www.Atticadigitalmarketing.com</div><div><br></div><div>built the Attica digital marketing app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.</div><div><br></div><div><br></div><div><br></div><div>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</div><div><br></div><div>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</div><div><br></div><div>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Attica digital marketing unless otherwise defined in this Privacy Policy.</div><div><br></div><div>Information Collection and Use</div><div><br></div><div>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.</div><div><br></div><div>The app does use third party services that may collect information used to identify you.</div><div><br></div><div>Link to privacy policy of third party service providers used by the app</div><div><br></div><div>Google Play Services</div><div>Google Analytics for Firebase</div><div>Firebase Crashlytics</div><div>Log Data</div><div><br></div><div>I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.</div><div><br></div><div>Cookies</div><div><br></div><div>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\\'s internal memory.</div><div><br></div><div>This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</div><div><br></div><div>Service Providers</div><div><br></div><div>I may employ third-party companies and individuals due to the following reasons:</div><div><br></div><div>To facilitate our Service;</div><div>To provide the Service on our behalf;</div><div>To perform Service-related services; or</div><div>To assist us in analyzing how our Service is used.</div><div>I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</div><div><br></div><div>Security</div><div><br></div><div>I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.</div><div><br></div><div>Links to Other Sites</div><div><br></div><div>This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</div><div><br></div><div>Children’s Privacy</div><div><br></div><div>These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.</div><div><br></div><div>Changes to This Privacy Policy</div><div><br></div><div>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</div><div><br></div><div>This policy is effective as of 2021-01-04</div><div><br></div><div>Contact Us</div><div><br></div><div>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Atticadigitalmarketing.com</div><div><br></div><div>This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator</div>"
+
+Data dataFromJson(String str) => Data.fromJson(json.decode(str));
+String dataToJson(Data data) => json.encode(data.toJson());
+class Data {
+  Data({
+      String? id, 
+      String? variable, 
+      String? value,}){
+    _id = id;
+    _variable = variable;
+    _value = value;
+}
+
+  Data.fromJson(dynamic json) {
+    _id = json['id'];
+    _variable = json['variable'];
+    _value = json['value'];
+  }
+  String? _id;
+  String? _variable;
+  String? _value;
+Data copyWith({  String? id,
+  String? variable,
+  String? value,
+}) => Data(  id: id ?? _id,
+  variable: variable ?? _variable,
+  value: value ?? _value,
+);
+  String? get id => _id;
+  String? get variable => _variable;
+  String? get value => _value;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['id'] = _id;
+    map['variable'] = _variable;
+    map['value'] = _value;
+    return map;
+  }
+
+}
